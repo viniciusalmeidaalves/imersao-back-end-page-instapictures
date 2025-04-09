@@ -19,4 +19,4 @@ Google Gemini: Estratégias e Aplicações Práticas, nesse projeto foi implemen
 
 - ## 🚀 Como executar o projeto
 
-1. Clone o repositório: 
+1. Clone o repositório: https://github.com/viniciusalmeidaalves/imersao-back-end-page-instapictures
