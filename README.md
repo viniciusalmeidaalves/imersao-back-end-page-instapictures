@@ -1,6 +1,7 @@
 # Imersão Back-End Page Instapictures - Alura
 
-Construindo a página do InstaPinctures  
+Desenvolvendo a página do InstaPinctures
+  
 Google Gemini: Estratégias e Aplicações Práticas, nesse projeto foi implementado a IA do google para autodescrever a imagem.
 
 ## 🖼 Prévia do Projeto
