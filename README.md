@@ -18,6 +18,7 @@ Google Gemini: Estratégias e Aplicações Práticas, nesse projeto foi implemen
 - CSS3
 - JavaScript
 
-- ## 🚀 Como executar o projeto
+## 📁 Acesso ao projeto
 
-1. Clone o repositório: https://github.com/viniciusalmeidaalves/imersao-back-end-page-instapictures
+1. [acessar o código fonte do projeto](https://github.com/viniciusalmeidaalves/imersao-back-end-page-instapictures)
+2. [baixar o código fonte do projeto](https://github.com/viniciusalmeidaalves/imersao-back-end-page-instapictures/archive/refs/heads/master.zip)
